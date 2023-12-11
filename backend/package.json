@@ -23,7 +23,7 @@
     "jsonwebtoken": "^9.0.0",
     "lib": "^5.1.0",
     "mongodb": "^5.2.0",
-    "mongoose": "^7.0.3",
+    "mongoose": "^7.6.7",
     "node-gyp": "^9.3.1",
     "nodemon": "^2.0.22",
     "npm-install-global": "^1.0.0",
