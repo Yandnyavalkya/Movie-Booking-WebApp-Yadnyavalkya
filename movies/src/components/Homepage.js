@@ -14,7 +14,7 @@ const Homepage = () => {
   return (
    <Box width={'100%'} height={'100%'} margin={'auto'} marginTop={2}>
     <Box margin={'auto'} width={'70%'} height={'40vh'} padding={2}>
-        <img src="https://i.ytimg.com/vi/flXhA8DOi84/maxresdefault.jpg" alt='movie-banner' width={'100%'} height={'100%'} />
+        <img src="https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2023/11/29121807/Animal-movie-location-2.jpg?tr=w-1366,f-jpg,pr-true" alt='movie-banner' width={'100%'} height={'100%'} />
     </Box>
     <Box padding={5} margin={'auto'}>
         <Typography variant='h4' textAlign={"center"}>
